@@ -7,7 +7,7 @@ Primeiro, rode em mode de desenvolvimento:
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Abra [http://localhost:3000](http://localhost:3000) em seu navegador e veja o resultado.
 
 ## Rodar em Produção
 Segundo, Compile o projeto e inicie em Produção:
